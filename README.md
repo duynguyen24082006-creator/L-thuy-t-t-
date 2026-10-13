@@ -12,6 +12,12 @@ Mở một tệp bên dưới rồi chọn **Download raw file** (biểu tượn
 - [Bảng tính Excel](BTL_Nhom_2/Bang_tinh_Nhom_2.xlsx)
 - [Tám đồ thị A4](BTL_Nhom_2/08_do_thi_A4.pdf)
 
+## Mẫu quy cách đồ án TN, PBL, BTL
+
+- [Tải bản Word: Quy cách đồ án TN, PBL, BTL](Quy_cach_do_an/Quy_cach_do_an_TN_PBL_BTL.docx)
+
+Bản Word chuyển từ PDF 9 trang do người dùng cung cấp. Nội dung chữ và hai công thức có thể chỉnh sửa; các khung và đường kẻ trang được giữ bằng nền ảnh. Những chỗ xuống dòng được giữ gần bản gốc. Hai công thức dùng Equation của Word; ký hiệu số công thức (1.2) được đưa về cùng dòng. Đã xuất lại bằng LibreOffice để kiểm tra đủ 9 trang; bố cục có thể xê dịch đôi chút tùy phiên bản Word và phông chữ.
+
 ## Phạm vi tính toán
 
 Thông số đề chưa cung cấp được chọn và ghi rõ trong thuyết minh. Công suất cực đại thiết kế tối thiểu là khoảng 117,01 kW; chưa chọn một động cơ thương mại cụ thể. Kết quả tăng tốc tính từ 4,64 đến 90,25 km/h, có bốn lần chuyển số, chưa gồm xuất phát bằng ly hợp trượt.
