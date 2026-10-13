@@ -24,6 +24,12 @@ Bản Word chuyển từ PDF 9 trang do người dùng cung cấp. Nội dung ch
 
 Mẫu trống 20 trang dựng lại theo bố cục tài liệu tham khảo: bìa, nhận xét, lời nói đầu, mục lục, các đề mục tính sức kéo, bảng biểu, vị trí tám đồ thị, kết luận và tài liệu tham khảo. Đã bỏ quảng bá, dấu nhận diện nền tảng, mã QR, thông tin nhóm mẫu, công thức và số liệu tính toán. Khung bìa, bảng, tiêu đề, đầu/chân trang và phần chữ đều chỉnh sửa được trong Word. Sau khi hoàn thiện nội dung, nhấp chuột phải vào mục lục và chọn cập nhật toàn bộ mục lục.
 
+## Đề bài Nhóm 2 dựng lại từ ảnh
+
+- [Tải đề bài BTL Lý thuyết ô tô Nhóm 2 — Word](De_bai_Nhom_2/De_bai_BTL_Ly_thuyet_o_to_Nhom_2.docx)
+
+Một trang A4 với chữ và bảng chỉnh sửa được, dựng lại theo ảnh đề bài người dùng cung cấp. Giữ các thông số, yêu cầu và ngày giao/hoàn thành của ảnh; bảng danh sách có bốn dòng trống để điền thông tin.
+
 ## Phạm vi tính toán
 
 Thông số đề chưa cung cấp được chọn và ghi rõ trong thuyết minh. Công suất cực đại thiết kế tối thiểu là khoảng 117,01 kW; chưa chọn một động cơ thương mại cụ thể. Kết quả tăng tốc tính từ 4,64 đến 90,25 km/h, có bốn lần chuyển số, chưa gồm xuất phát bằng ly hợp trượt.
