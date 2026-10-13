@@ -18,6 +18,12 @@ Mở một tệp bên dưới rồi chọn **Download raw file** (biểu tượn
 
 Bản Word chuyển từ PDF 9 trang do người dùng cung cấp. Nội dung chữ và hai công thức có thể chỉnh sửa; các khung và đường kẻ trang được giữ bằng nền ảnh. Những chỗ xuống dòng được giữ gần bản gốc. Hai công thức dùng Equation của Word; ký hiệu số công thức (1.2) được đưa về cùng dòng. Đã xuất lại bằng LibreOffice để kiểm tra đủ 9 trang; bố cục có thể xê dịch đôi chút tùy phiên bản Word và phông chữ.
 
+## Mẫu trình bày bài tập lớn để điền nội dung
+
+- [Tải mẫu Word BTL Lý thuyết ô tô](Mau_BTL/Mau_trinh_bay_BTL_Ly_thuyet_o_to.docx)
+
+Mẫu trống 20 trang dựng lại theo bố cục tài liệu tham khảo: bìa, nhận xét, lời nói đầu, mục lục, các đề mục tính sức kéo, bảng biểu, vị trí tám đồ thị, kết luận và tài liệu tham khảo. Đã bỏ quảng bá, dấu nhận diện nền tảng, mã QR, thông tin nhóm mẫu, công thức và số liệu tính toán. Khung bìa, bảng, tiêu đề, đầu/chân trang và phần chữ đều chỉnh sửa được trong Word. Sau khi hoàn thiện nội dung, nhấp chuột phải vào mục lục và chọn cập nhật toàn bộ mục lục.
+
 ## Phạm vi tính toán
 
 Thông số đề chưa cung cấp được chọn và ghi rõ trong thuyết minh. Công suất cực đại thiết kế tối thiểu là khoảng 117,01 kW; chưa chọn một động cơ thương mại cụ thể. Kết quả tăng tốc tính từ 4,64 đến 90,25 km/h, có bốn lần chuyển số, chưa gồm xuất phát bằng ly hợp trượt.
