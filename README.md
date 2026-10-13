@@ -1,0 +1,21 @@
+# Bài tập lớn Lý thuyết ô tô — Nhóm 2
+
+Bộ hồ sơ tính sức kéo theo đề: xe tải, khối lượng bản thân 3.450 kg, tải hàng 4.100 kg, 2 người, phân bố tải cầu trước/sau 0,3/0,7, vận tốc 95 km/h, sức cản đường lớn nhất 0,31, động cơ diesel và truyền lực cơ khí.
+
+## Tải hồ sơ
+
+Mở một tệp bên dưới rồi chọn **Download raw file** (biểu tượng tải xuống). Muốn tải toàn bộ repository, chọn **Code → Download ZIP**.
+
+- [Toàn bộ hồ sơ ZIP](BTL_Nhom_2/BTL_Ly_thuyet_o_to_Nhom_2.zip)
+- [Thuyết minh PDF](BTL_Nhom_2/Thuyet_minh_Nhom_2.pdf)
+- [Thuyết minh Word](BTL_Nhom_2/Thuyet_minh_Nhom_2.docx)
+- [Bảng tính Excel](BTL_Nhom_2/Bang_tinh_Nhom_2.xlsx)
+- [Tám đồ thị A4](BTL_Nhom_2/08_do_thi_A4.pdf)
+
+## Phạm vi tính toán
+
+Thông số đề chưa cung cấp được chọn và ghi rõ trong thuyết minh. Công suất cực đại thiết kế tối thiểu là khoảng 117,01 kW; chưa chọn một động cơ thương mại cụ thể. Kết quả tăng tốc tính từ 4,64 đến 90,25 km/h, có bốn lần chuyển số, chưa gồm xuất phát bằng ly hợp trượt.
+
+Excel có công thức động cho phần thiết kế và lực kéo. Trang tích phân tăng tốc cùng các hình là kết quả cố định; muốn tái tạo toàn bộ khi thay tham số, dùng mã Python và hướng dẫn trong gói ZIP.
+
+Các công thức được đối chiếu với giáo trình Nguyễn Hữu Cẩn và bài mẫu Nhóm 1. Không kèm bản sao các PDF nguồn.
