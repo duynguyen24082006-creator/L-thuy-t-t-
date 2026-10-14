@@ -6,11 +6,14 @@ Bộ hồ sơ tính sức kéo theo đề: xe tải, khối lượng bản thân
 
 Mở một tệp bên dưới rồi chọn **Download raw file** (biểu tượng tải xuống). Muốn tải toàn bộ repository, chọn **Code → Download ZIP**.
 
+- [Bản Word đã điền công thức và số liệu vào mẫu của nhóm — không có ảnh đồ thị](BTL_Nhom_2/BTL_Nhom_2_Da_dien_cong_thuc_va_so_lieu.docx)
 - [Toàn bộ hồ sơ ZIP](BTL_Nhom_2/BTL_Ly_thuyet_o_to_Nhom_2.zip)
 - [Thuyết minh PDF](BTL_Nhom_2/Thuyet_minh_Nhom_2.pdf)
 - [Thuyết minh Word](BTL_Nhom_2/Thuyet_minh_Nhom_2.docx)
 - [Bảng tính Excel](BTL_Nhom_2/Bang_tinh_Nhom_2.xlsx)
 - [Tám đồ thị A4](BTL_Nhom_2/08_do_thi_A4.pdf)
+
+Bản Word đã điền sử dụng mẫu nhóm cung cấp, giữ thông tin thành viên, mã sinh viên, lớp và giảng viên. Bản này có 49 công thức dạng Equation chỉnh sửa được, các bảng số liệu và kết quả tính, mục lục đã cập nhật; giữ trống tám khung đồ thị và không nhúng ảnh. Đã kiểm tra phân trang bằng bản xuất PDF (30 trang) và đối chiếu bảng tính với thuyết minh. Tệp Word mới được cung cấp riêng; gói ZIP gốc phía trên không bao gồm bản cập nhật này.
 
 ## Mẫu quy cách đồ án TN, PBL, BTL
 
