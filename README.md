@@ -33,7 +33,16 @@ Mẫu trống 20 trang dựng lại theo bố cục tài liệu tham khảo: bì
 
 Một trang A4 với chữ và bảng chỉnh sửa được, dựng lại theo ảnh đề bài người dùng cung cấp. Giữ các thông số, yêu cầu và ngày giao/hoàn thành của ảnh; bảng danh sách có bốn dòng trống để điền thông tin.
 
-## Phạm vi tính toán
+## Mã MATLAB trích từ Phụ lục III
+
+- [Tải gói MATLAB và hướng dẫn ZIP](MATLAB_Phu_luc_III/MATLAB_Phu_luc_III.zip)
+- [Hướng dẫn nhập liệu, chạy chương trình và lưu kết quả](MATLAB_Phu_luc_III/README.md)
+- [Mã trích theo tài liệu](MATLAB_Phu_luc_III/phu_luc_III_ban_trich.m)
+- [Bản chỉnh kỹ thuật không cần Symbolic Math Toolbox](MATLAB_Phu_luc_III/phu_luc_III_khong_symbolic.m)
+
+Trích từ trang in 222–232 (trang PDF 223–233) của tài liệu Bài tập Lý thuyết ô tô do người dùng cung cấp, tác giả Đào Mạnh Hùng – Vũ Văn Tấn – Tạ Thị Thanh Huyền. Giữ bộ số liệu ví dụ của tài liệu; chưa thay bằng bộ số liệu Nhóm 2. Hướng dẫn nêu rõ các sửa đổi và hạn chế mô hình. Đã kiểm tra cú pháp và đối chiếu phép tính bằng Python, chưa chạy trực tiếp trong MATLAB.
+
+## Phạm vi tính toán của hồ sơ Nhóm 2
 
 Thông số đề chưa cung cấp được chọn và ghi rõ trong thuyết minh. Công suất cực đại thiết kế tối thiểu là khoảng 117,01 kW; chưa chọn một động cơ thương mại cụ thể. Kết quả tăng tốc tính từ 4,64 đến 90,25 km/h, có bốn lần chuyển số, chưa gồm xuất phát bằng ly hợp trượt.
 
