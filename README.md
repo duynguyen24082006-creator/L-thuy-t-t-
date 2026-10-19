@@ -4,6 +4,11 @@ Bộ hồ sơ tính sức kéo theo đề: xe tải, khối lượng bản thân
 
 ## Tải hồ sơ
 
+- [Mới: Bản Nhóm 2 đã bổ sung và đánh dấu khi đối chiếu Nhóm A](Doi_chieu_Nhom_2_Nhom_A/BTL_Nhom_2_Bo_sung_va_danh_dau.docx)
+- [Bảng đối chiếu các mục cần thêm, tùy chọn và lỗi cần sửa](Doi_chieu_Nhom_2_Nhom_A/Bang_doi_chieu_va_huong_dan_sua.docx)
+
+Hai tệp trên là **bản rà soát ngày 19/10/2026**, dùng bản `BTL_Nhom_2_chuacodothi.docx` người dùng đã chỉnh sửa. Nội dung bổ sung và chỉ dẫn được in đậm; các bảng trộn phương án cũ/mới được đánh dấu để sửa, chưa phải bộ kết quả đã tính lại. [Xem cách đọc và tải cả gói](Doi_chieu_Nhom_2_Nhom_A/README.md).
+
 Mở một tệp bên dưới rồi chọn **Download raw file** (biểu tượng tải xuống). Muốn tải toàn bộ repository, chọn **Code → Download ZIP**.
 
 - [Bản Word đã điền công thức và số liệu vào mẫu của nhóm — không có ảnh đồ thị](BTL_Nhom_2/BTL_Nhom_2_Da_dien_cong_thuc_va_so_lieu.docx)
