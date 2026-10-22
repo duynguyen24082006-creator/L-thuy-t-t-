@@ -4,6 +4,8 @@ Bộ hồ sơ tính sức kéo theo đề: xe tải, khối lượng bản thân
 
 ## Tải hồ sơ
 
+- **[Excel tham khảo mới nhất: sửa tích phân và dựng hành trình tăng tốc qua năm số](Excel_tham_khao_20261022/Nhom2_Excel_tham_khao_da_chinh.xlsx)** — [Hướng dẫn đọc và những phần đã sửa](Excel_tham_khao_20261022/README.md). Giữ phương án mới người dùng chọn: f0 = 0,015; số I = 6,5; số V = 1. Bộ này khác thông số của Word bên dưới.
+
 - **[Mới nhất: Word đồng bộ theo Nhom2.xlsx, có giải thích tính tăng tốc](Dong_bo_Nhom_2_20261021/BTL_Nhom_2_Dong_bo_Excel_va_giai_thich_tang_toc.docx)**
 - **[Excel bổ sung: lực kéo, nhân tố động lực học, thời gian và quãng đường](Dong_bo_Nhom_2_20261021/Nhom2_Dong_bo_va_tang_toc.xlsx)**
 - **[Tải cả bộ mới ZIP](Dong_bo_Nhom_2_20261021/Nhom2_Word_Excel_va_ma_tinh.zip)**
