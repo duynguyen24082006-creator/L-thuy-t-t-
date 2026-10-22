@@ -1,0 +1,4 @@
+numpy>=1.24
+scipy>=1.10
+XlsxWriter>=3.2
+openpyxl>=3.1

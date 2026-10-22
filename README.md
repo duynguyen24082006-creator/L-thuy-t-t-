@@ -4,7 +4,16 @@ Bộ hồ sơ tính sức kéo theo đề: xe tải, khối lượng bản thân
 
 ## Tải hồ sơ
 
-- [Mới: Bản Nhóm 2 đã bổ sung và đánh dấu khi đối chiếu Nhóm A](Doi_chieu_Nhom_2_Nhom_A/BTL_Nhom_2_Bo_sung_va_danh_dau.docx)
+- **[Mới nhất: Word đồng bộ theo Nhom2.xlsx, có giải thích tính tăng tốc](Dong_bo_Nhom_2_20261021/BTL_Nhom_2_Dong_bo_Excel_va_giai_thich_tang_toc.docx)**
+- **[Excel bổ sung: lực kéo, nhân tố động lực học, thời gian và quãng đường](Dong_bo_Nhom_2_20261021/Nhom2_Dong_bo_va_tang_toc.xlsx)**
+- **[Tải cả bộ mới ZIP](Dong_bo_Nhom_2_20261021/Nhom2_Word_Excel_va_ma_tinh.zip)**
+- [Hướng dẫn, các thông số cập nhật và cách dựng đồ thị](Dong_bo_Nhom_2_20261021/README.md)
+
+Bản mới hoàn thiện ngày **22/10/2026**, giữ bản Word nhóm cung cấp, cập nhật công thức và bảng theo Excel; không chèn hình đồ thị vào Word. Khối lượng toàn tải 7.680 kg; tăng tốc từ 4,252 đến 90,25 km/h trong 104,015 s, đi 1.933,368 m theo các giả thiết ghi rõ trong bài. Đây là bộ số liệu dùng cho yêu cầu đồng bộ mới nhất.
+
+Các bản bên dưới lưu lại những giai đoạn trước và có bộ giả thiết khác:
+
+- [Bản Nhóm 2 đã bổ sung và đánh dấu khi đối chiếu Nhóm A](Doi_chieu_Nhom_2_Nhom_A/BTL_Nhom_2_Bo_sung_va_danh_dau.docx)
 - [Bảng đối chiếu các mục cần thêm, tùy chọn và lỗi cần sửa](Doi_chieu_Nhom_2_Nhom_A/Bang_doi_chieu_va_huong_dan_sua.docx)
 
 Hai tệp trên là **bản rà soát ngày 19/10/2026**, dùng bản `BTL_Nhom_2_chuacodothi.docx` người dùng đã chỉnh sửa. Nội dung bổ sung và chỉ dẫn được in đậm; các bảng trộn phương án cũ/mới được đánh dấu để sửa, chưa phải bộ kết quả đã tính lại. [Xem cách đọc và tải cả gói](Doi_chieu_Nhom_2_Nhom_A/README.md).
@@ -47,7 +56,7 @@ Một trang A4 với chữ và bảng chỉnh sửa được, dựng lại theo 
 
 Trích từ trang in 222–232 (trang PDF 223–233) của tài liệu Bài tập Lý thuyết ô tô do người dùng cung cấp, tác giả Đào Mạnh Hùng – Vũ Văn Tấn – Tạ Thị Thanh Huyền. Giữ bộ số liệu ví dụ của tài liệu; chưa thay bằng bộ số liệu Nhóm 2. Hướng dẫn nêu rõ các sửa đổi và hạn chế mô hình. Đã kiểm tra cú pháp và đối chiếu phép tính bằng Python, chưa chạy trực tiếp trong MATLAB.
 
-## Phạm vi tính toán của hồ sơ Nhóm 2
+## Phạm vi tính toán của bộ hồ sơ cũ trong BTL_Nhom_2
 
 Thông số đề chưa cung cấp được chọn và ghi rõ trong thuyết minh. Công suất cực đại thiết kế tối thiểu là khoảng 117,01 kW; chưa chọn một động cơ thương mại cụ thể. Kết quả tăng tốc tính từ 4,64 đến 90,25 km/h, có bốn lần chuyển số, chưa gồm xuất phát bằng ly hợp trượt.
 
